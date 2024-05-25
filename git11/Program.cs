@@ -26,9 +26,8 @@ namespace git11
                 else if (i == 6) Console.WriteLine("booroo khoonatoon");
 
             }
-            
 
-
+            int areh = 22;
             Console.ReadKey();
         }
     }
