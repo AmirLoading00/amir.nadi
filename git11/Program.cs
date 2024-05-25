@@ -22,6 +22,8 @@ namespace git11
             {
                 if (i == 5) Console.WriteLine("hello");
 
+                else if (i == 6) Console.WriteLine("booroo khoonatoon");
+
             }
             
 
