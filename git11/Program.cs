@@ -27,7 +27,9 @@ namespace git11
 
             }
 
+            bool isTrue = true;
 
+            string name5 = "amir";
             int salam = 3;
 
             int areh = 22;
