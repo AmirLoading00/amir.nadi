@@ -20,7 +20,7 @@ namespace git11
 
             for (int i = 0; i <10; i++)
             {
-                if (i == 5) Console.WriteLine("hello")
+                if (i == 5) Console.WriteLine("hello");
 
             }
             
