@@ -26,8 +26,10 @@ namespace git11
                 else if (i == 6) Console.WriteLine("booroo khoonatoon");
 
             }
+
             bool isTrue = true;
 
+            string name5 = "amir";
             int salam = 3;
             Console.ReadKey();
         }
