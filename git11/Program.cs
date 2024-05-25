@@ -11,13 +11,14 @@ namespace git11
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
-            for (int i = 0; i <=10; i++)
+            for (int i = 0; i <=5; i++)
             {
                 Console.WriteLine(i);
 
             }
-            Console.WriteLine("hello git");
+                string name= Console.ReadLine();
 
+                 Console.WriteLine(name);
             for (int i = 0; i <10; i++)
             {
                 if (i == 5) Console.WriteLine("hello");
