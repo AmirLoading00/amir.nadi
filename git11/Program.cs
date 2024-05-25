@@ -27,6 +27,9 @@ namespace git11
 
             }
 
+
+            int salam = 3;
+
             int areh = 22;
             Console.ReadKey();
         }
